@@ -17,4 +17,6 @@ wasm-pack build --target web
 
 ## How to check the output of index.html
 You will need to serve it using lite-server. Just install the node_modules using ``npm install`` and then run it using ``npm start``.
-The you can see the output in the console of the browser.
+Then you can see the output in the console of the browser.
+
+Thankyou!
